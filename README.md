@@ -24,9 +24,9 @@
 ### 4. 📦 `janitor::remove_empty` y `tidyr::fill()` 
 #### [Riva Quiroga](https://twitter.com/rivaquiroga)
 
-📂 [datos]()
+📂 [datos](https://github.com/rladieschile/funciones-favoritas/blob/main/4.janitor-tidyr/ejemplo.xlsx)
 
-📄 [código en vivo]()
+📄 [código en vivo](https://github.com/rladieschile/funciones-favoritas/blob/main/4.janitor-tidyr/codigo-en-vivo.R)
 
 
 ### 5. 📦 `mapview::mapview()`
