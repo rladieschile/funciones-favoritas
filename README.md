@@ -20,6 +20,7 @@
 ### 3. 📦 `beepr::beep()` y `here::here()`
 #### [Sara Acevedo](https://twitter.com/saryace)
 
+📂 [repositorio](https://github.com/Saryace/exploring_packages)
 
 ### 4. 📦 `janitor::remove_empty` y `tidyr::fill()` 
 #### [Riva Quiroga](https://twitter.com/rivaquiroga)
